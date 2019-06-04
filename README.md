@@ -1,4 +1,4 @@
-# DC_And_Marvel
+# DC & Marvel: Can we really compare them?
 
 The data typically originates from Marvel Wikia and DC Wikia. Distinctive characters were scraped on August 24. Appearance tallies were scraped on September 2. The month and year of the vital issue each character showed up in was extracted on October 6. 
 
